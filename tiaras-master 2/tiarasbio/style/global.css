@@ -1,0 +1,27 @@
+.lede {
+    color: #30a473;
+    font-weight:bold;
+}
+html { background-color: #f7b348;
+       font-size: 100%;
+}
+p { font-family: “Helvetica Neue”, Helvetica, Arial, sans-serif; line-height: 1.5;
+       color: #333333
+}
+h1 { font-family: "Palatino Linotype", Georgia, serif;line-height: 1.7;
+    color: #30a473 
+}
+ul {font-family: “Helvetica Neue”, Helvetica, Arial, sans-serif; line-height: 1.5;
+       color: #A80836}
+a:link {
+       color:#3C5FA4;
+}
+a:visited {
+       color:#8535A4;
+}
+a:hover {
+       color:#F4028B;
+}
+a:active {
+       color:#0000FF;
+}
